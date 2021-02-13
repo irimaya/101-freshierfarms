@@ -1,0 +1,80 @@
+/* Header */
+#main-header {
+  height: 100%;
+  overflow: hidden;
+  padding: 20px 0 40px 0;
+}
+
+#showcase h1,
+#showcase p {
+  width: 100%;
+}
+
+#showcase h1 {
+  font-size: 50px;
+}
+
+#showcase p {
+  padding-bottom: 0;
+}
+
+/* Description */
+#description h1,
+#description p.large{
+  width: 100%;
+}
+
+.description-container-box {
+  float: none;
+  width: 100%;
+  padding: 10px;
+}
+
+/* Testimonial */
+#testimonial {
+  padding: 20px;
+}
+
+#testimonial p {
+  width: 100%;
+}
+
+/* Features */
+#features {
+  padding: 20px 0;
+}
+
+.features-box {
+  float: none;
+  width: 100%;
+  padding: 10px;
+}
+
+/* About */
+#about {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.about-box {
+  float: none;
+  width: 100%;
+  padding: 10px;
+}
+
+.about-image {
+  width: 100%;
+}
+.about-description {
+  margin-top: 20px;
+}
+
+.about-description h1,
+.about-description p {
+  text-align: center;
+}
+
+/* Footer */
+footer p {
+  padding: 20px;
+}
